@@ -1,5 +1,3 @@
-
-
 # bootstrap_web
 
 Website testing with bootstrap
@@ -7,14 +5,14 @@ https://last72.github.io/bootstrap_web/
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This repository is initially built for apply and see the result(speed, layout) of web development using bootstrap. But I will add any website that im working, testing on.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+A morden web browser, supporting HTML5. Also, it should work on mobile device seamlessly.
 
 ```
-Give examples
+* Chrome
 ```
 
 ### Installing
