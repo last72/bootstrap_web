@@ -18,7 +18,7 @@ A morden web browser, supporting HTML5. Also, it should work on mobile device se
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Address: https://last72.github.io/bootstrap_web/
 
 Say what the step will be
 
