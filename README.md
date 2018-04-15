@@ -12,9 +12,7 @@ This repository is initially built for apply and see the result(speed, layout) o
 
 A morden web browser, supporting HTML5. Also, it should work on mobile device seamlessly.
 
-
 * Chrome
-
 
 ### Installing
 
@@ -24,12 +22,6 @@ List of demo webite
 
 * bs_23c_demo [bs_23c_demo](https://last72.github.io/bootstrap_web/bs_23c_demo.html)
 * Urver_Demo [Urver_Demo](https://last72.github.io/bootstrap_web/urver_demo.html)
-
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
