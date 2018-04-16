@@ -47,7 +47,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Used GitHub Pages which is totally free
 
 ## Built With
 
