@@ -52,6 +52,7 @@ Used GitHub Pages which is totally free
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/) - The web framework used
+* [VS code](https://code.visualstudio.com/) - A text editor for multiuse
 
 ## Contributing
 
