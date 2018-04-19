@@ -47,7 +47,7 @@ Give an example
 
 ## Deployment
 
-Used GitHub Pages which is totally free
+Used GitHub Pages which is totally free (https://last72.github.io/bootstrap_web/)
 
 ## Built With
 
