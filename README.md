@@ -48,6 +48,7 @@ Give an example
 ## Deployment
 
 Used GitHub Pages which is totally free (https://last72.github.io/bootstrap_web/)
+If the needs are occur in future, paid web hosting service might be used.
 
 ## Built With
 
