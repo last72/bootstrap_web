@@ -31,7 +31,7 @@ Open chrome or other equivalent web browser. Simply type the address or download
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+Open website you want to test and right click - inspect. It will show you a html code and other information as well.
 
 ```
 Give an example
