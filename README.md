@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the []() file for details
 
 * bs_23c_demo is copied from w3cschool
 * Inspiration
-* etc
+* 
